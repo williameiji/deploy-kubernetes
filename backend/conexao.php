@@ -1,5 +1,5 @@
 <?php
-$servername = "";
+$servername = "mysql-connection";
 $username = "root";
 $password = "123456";
 $database = "bancokuber";
