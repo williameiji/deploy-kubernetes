@@ -1,8 +1,8 @@
 <?php
 $servername = "";
 $username = "root";
-$password = "Senha123";
-$database = "meubanco";
+$password = "123456";
+$database = "bancokuber";
 
 // Criar conexão
 
